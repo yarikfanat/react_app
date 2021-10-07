@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react_app/static/css/main.ea4baa12.chunk.css",
-    "main.js": "/react_app/static/js/main.2123053b.chunk.js",
-    "main.js.map": "/react_app/static/js/main.2123053b.chunk.js.map",
+    "main.css": "/react_app/static/css/main.17faa7f6.chunk.css",
+    "main.js": "/react_app/static/js/main.57f7891a.chunk.js",
+    "main.js.map": "/react_app/static/js/main.57f7891a.chunk.js.map",
     "runtime-main.js": "/react_app/static/js/runtime-main.a2f84b36.js",
     "runtime-main.js.map": "/react_app/static/js/runtime-main.a2f84b36.js.map",
     "static/js/2.0584f2b6.chunk.js": "/react_app/static/js/2.0584f2b6.chunk.js",
     "static/js/2.0584f2b6.chunk.js.map": "/react_app/static/js/2.0584f2b6.chunk.js.map",
     "index.html": "/react_app/index.html",
-    "static/css/main.ea4baa12.chunk.css.map": "/react_app/static/css/main.ea4baa12.chunk.css.map",
+    "static/css/main.17faa7f6.chunk.css.map": "/react_app/static/css/main.17faa7f6.chunk.css.map",
     "static/js/2.0584f2b6.chunk.js.LICENSE.txt": "/react_app/static/js/2.0584f2b6.chunk.js.LICENSE.txt",
     "static/media/trainer.css": "/react_app/static/media/dumbells2.adc6a459.jpg",
     "static/media/start.css": "/react_app/static/media/my_photo680.40c92512.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a2f84b36.js",
     "static/js/2.0584f2b6.chunk.js",
-    "static/css/main.ea4baa12.chunk.css",
-    "static/js/main.2123053b.chunk.js"
+    "static/css/main.17faa7f6.chunk.css",
+    "static/js/main.57f7891a.chunk.js"
   ]
 }
