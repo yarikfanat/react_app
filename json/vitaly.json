@@ -1,35 +1,39 @@
 {
-	"src_video":[
-				   ["https://www.youtube.com/embed/hXyC9CGfvo4","https://www.youtube.com/embed/xv7gMobOzmU"],
-				   ["https://www.youtube.com/embed/vSMi1CEgweo","https://www.youtube.com/embed/poXUp3EF1Dw"],
-				   ["https://www.youtube.com/embed/wiFDIIe1Z1M","https://www.youtube.com/embed/vNrkKOiksCs"],
-				   ["https://www.youtube.com/embed/rUz7mPfvi48","https://www.youtube.com/embed/y6Y8WM_K8YY"],
-				   ["https://www.youtube.com/embed/wVNFyUNcwgU","https://www.youtube.com/embed/F2BZDFZEIQQ"],
-				   ["https://www.youtube.com/embed/BpBY08RLioM","https://www.youtube.com/embed/0NrOMts6pzc"]
+	"photo_equip":[
+				    ["photo_equip/back/TRX_back.jpg"],
+				    ["photo_equip/back/podtjagivanij-na-turnike-na-massu.jpg"],
+				    ["photo_equip/back/turnik_uzko.jpg"],
+				    ["photo_equip/hands/trx-triceps_razgib.jpg"],
+				    ["photo_equip/hands/diamond-push-up.jpg"],
+				    ["photo_equip/abdominal/trx_pike.jpg"],
+				    ["photo_equip/abdominal/TRX-Pl-1.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Разгибание бедра сидя(вес 70-80 фунтов)","Жим ногами в горизонтальной платформе (широкая постановка ног)(общий вес 150-170 фунтов)"],
-					 ["Приседание до параллели со штангой на плечах (по 20кг или 45 фунтов) с каждой стороны","Приседания со штангой в станке Смитта(45-55 фунтов с каждой стороны)"],
-					 ["Жим ногами вверх в платформе (узкая постановка ног)вес-40кг или 90фунтов с каждой стороны","Выпады с гантелями по 12 кг(25фунтов) на месте"],
-					 ["Сгибатель бедра лежа на животе(120-130 фунтов)","Сгибатель бедра сидя (120 фунтов)"],
-					 ["Сведения ног в тренажере(100 фунтов)","Отведения ног в тренажере(90 фунтов)"],
-					 ["Подьемы на носки в тренажере(40 фунтов)","Подьем ног лежа на спине"]
+					 ["Подтягивания в TRX петлях для мышц спины"],
+					 ["Подтягиваня в турнике широким хватом к груди"],
+					 ["Подтягиваня в турнике узким хватом к груди (пример в видеоролике на 2:09 минуте)"],
+					 ["Разгибания на трицепс в TRX"],
+					 ["Алмазные отжимания от пола на трицепс (видеоролик на 0:30 минуте)"],
+					 ["Пресс в TRX (упражнение - Пик)"],
+					 ["Пресс в TRX (Подтягивания колен к груди)"]
 				  	],
-	"photo_equip":[
-				 ["photo_equip/legs/IMG_20201028_084549.jpg","photo_equip/legs/IMG_20201026_174911.jpg"],
-				 ["photo_equip/legs/prisedaniya-so-shtangoy.jpg","photo_equip/legs/prised_smit.jpg"],
-				 ["photo_equip/legs/zhim-nogami-foto.jpg","photo_equip/legs/vipad.jpg"],
-				 ["photo_equip/legs/biceps_bedra_lezha.jpg","photo_equip/legs/IMG_20201028_084538.jpg"],
-				 ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg","photo_equip/legs/IMG_20201028_084354.jpg"],
-				 ["photo_equip/legs/golen-mashin.jpg","photo_equip/abdominal/press_na_skame.jpg"]
+	"src_video":[
+				 ["https://www.youtube.com/embed/xb5nXpRczrQ"],
+				 ["https://www.youtube.com/embed/HgUXEJEmn-g"],
+				 ["https://www.youtube.com/embed/RZnn7oNQo7Q"],
+				 ["https://www.youtube.com/embed/ePfjTb94_ZI"],
+				 ["https://www.youtube.com/embed/obp_iRwJ8mM"],
+				 ["https://www.youtube.com/embed/KPO1sBrXv94"],
+				 ["https://www.youtube.com/embed/gXlS-4UY_RE"]
 				],
-	"superset":[false,false,false,false,true,true],
+	"superset":[false,false,false,false,false,false,false],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":25},{"rounds":4,"reps":25}],
-			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}]
+	"details":[[{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":10}],
+			   [{"rounds":4,"reps":10}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}]
 		 	  ]
 }
