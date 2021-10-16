@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react_app/static/css/main.17faa7f6.chunk.css",
-    "main.js": "/react_app/static/js/main.0d6c97c0.chunk.js",
-    "main.js.map": "/react_app/static/js/main.0d6c97c0.chunk.js.map",
-    "runtime-main.js": "/react_app/static/js/runtime-main.a2f84b36.js",
-    "runtime-main.js.map": "/react_app/static/js/runtime-main.a2f84b36.js.map",
-    "static/js/2.0584f2b6.chunk.js": "/react_app/static/js/2.0584f2b6.chunk.js",
-    "static/js/2.0584f2b6.chunk.js.map": "/react_app/static/js/2.0584f2b6.chunk.js.map",
-    "index.html": "/react_app/index.html",
-    "static/css/main.17faa7f6.chunk.css.map": "/react_app/static/css/main.17faa7f6.chunk.css.map",
-    "static/js/2.0584f2b6.chunk.js.LICENSE.txt": "/react_app/static/js/2.0584f2b6.chunk.js.LICENSE.txt",
-    "static/media/trainer.css": "/react_app/static/media/dumbells2.adc6a459.jpg",
-    "static/media/start.css": "/react_app/static/media/my_photo680.40c92512.jpg",
-    "static/media/landscape.css": "/react_app/static/media/my_photo600.b9979d02.jpg",
-    "static/media/landscape1000.css": "/react_app/static/media/my_photo400.3e93ab85.jpg"
+    "main.css": "/static/css/main.0a274577.chunk.css",
+    "main.js": "/static/js/main.a272c80b.chunk.js",
+    "main.js.map": "/static/js/main.a272c80b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19badbbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19badbbf.js.map",
+    "static/js/2.f021917b.chunk.js": "/static/js/2.f021917b.chunk.js",
+    "static/js/2.f021917b.chunk.js.map": "/static/js/2.f021917b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0a274577.chunk.css.map": "/static/css/main.0a274577.chunk.css.map",
+    "static/js/2.f021917b.chunk.js.LICENSE.txt": "/static/js/2.f021917b.chunk.js.LICENSE.txt",
+    "static/media/trainer.css": "/static/media/dumbells2.adc6a459.jpg",
+    "static/media/start.css": "/static/media/my_photo680.40c92512.jpg",
+    "static/media/landscape.css": "/static/media/my_photo600.b9979d02.jpg",
+    "static/media/landscape1000.css": "/static/media/my_photo400.3e93ab85.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2f84b36.js",
-    "static/js/2.0584f2b6.chunk.js",
-    "static/css/main.17faa7f6.chunk.css",
-    "static/js/main.0d6c97c0.chunk.js"
+    "static/js/runtime-main.19badbbf.js",
+    "static/js/2.f021917b.chunk.js",
+    "static/css/main.0a274577.chunk.css",
+    "static/js/main.a272c80b.chunk.js"
   ]
 }
