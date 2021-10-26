@@ -23,8 +23,8 @@
 				 ["https://www.youtube.com/embed/UTurBQ0YAu8"],
 				 ["https://www.youtube.com/embed/2aYzxsG4Gkg"]				
 				],
-	"superset":[false,false,false,false,false,false,false],
-	"circle":[false,false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false],
 	"details":[[{"rounds":4,"reps":12}],
 			   [{"rounds":4,"reps":12}],
 			   [{"rounds":4,"reps":12}],
