@@ -35,17 +35,45 @@
 		"photo_equip":["photo_equip/chest/IMG_20201030_162454.jpg","photo_equip/chest/zhim-gantelej-lezha-na-skame-pod-uglom-35.jpg","photo_equip/chest/Smith-Machine-Bench-Press.jpg",
 		               "photo_equip/chest/zhim_gantel_na_gorizont.jpg","photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg","photo_equip/chest/razvedenie-ruk-lezha.jpg",
 		               "photo_equip/chest/IMG_20201028_085252.jpg","photo_equip/chest/IMG_20201030_162503.jpg","photo_equip/chest/pulover.jpg",
-		               "photo_equip/chest/IMG_20201030_162545.jpg"],
+		               "photo_equip/chest/IMG_20201030_162545.jpg","photo_equip/chest/zhim_vniz_golovoy.jpg","photo_equip/chest/ZHim-svenda-myishtsyi.jpg"],
 
 		"src_video":["https://www.youtube.com/embed/tzo69SUAm04","https://www.youtube.com/embed/MaxvcRh8ZII","https://www.youtube.com/embed/R0RyxO58XuM",
 		             "https://www.youtube.com/embed/mXdyLcQ_VZU","https://www.youtube.com/embed/fMcFLCGKh04","https://www.youtube.com/embed/QaJcczm4uZU",
 		             "https://www.youtube.com/embed/pSlfgn0nW4w","https://www.youtube.com/embed/gPE0-KLc5zQ","https://www.youtube.com/embed/UTurBQ0YAu8",
-		             "https://www.youtube.com/embed/5XjZ4D2tMrc"],
+		             "https://www.youtube.com/embed/5XjZ4D2tMrc","https://www.youtube.com/embed/2aYzxsG4Gkg","https://www.youtube.com/embed/Ny2OtRG1ZTA"],
 
 		"exercise_name":["Жим лежа под наклоном в тренажере (широкий хват)","Жим гантелей лежа на скамье под углом 35градусов","Жим штанги лежа на горизонтальной скамье в станке Смитта",
-		                 "Жим гантелей по 12-14кг лежа на горизонтальной скамье","Грудь-машина - сведения рук","Разведение гантелей лежа на горизонтальной скамье",
+		                 "Жим гантелей лежа на горизонтальной скамье","Грудь-машина - сведения рук","Разведение гантелей лежа на горизонтальной скамье",
 		                 "Отжимания на брусьях в гравитроне","Жим в трицепс-машине","Пуловер с гантелью лежа на горизонтальной скамье",
-		                 "Пуловер сидя в пуловер-машине"]
+		                 "Пуловер сидя в пуловер-машине","Жим штанги вниз головой","Жим Свенда с блином "]
+	},
+
+	"legs": {
+
+		"photo_equip":["photo_equip/legs/IMG_20201028_084549.jpg","photo_equip/legs/IMG_20201026_174911.jpg","photo_equip/legs/zhim-nogami-foto.jpg"
+		               "photo_equip/legs/prised_smit.jpg","photo_equip/legs/prisedaniya-so-shtangoy.jpg","photo_equip/legs/biceps_bedra_lezha.jpg",
+		               "photo_equip/legs/golen-mashin.jpg","photo_equip/legs/otvedenie-nogi-v-krossovere.jpg","photo_equip/legs/IMG_20201028_084259.jpg",
+		               "photo_equip/legs/IMG_20201028_084354.jpg","photo_equip/legs/IMG_20201028_084538.jpg","photo_equip/legs/IMG_20201028_085849.jpg",
+		               "photo_equip/legs/IMG_20201030_162359.jpg","photo_equip/legs/prisedaniya-plie-s-gantelej.jpg","photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg",
+		               "photo_equip/legs/vipad.jpg","photo_equip/legs/zhim-nogami-foto.jpg","photo_equip/legs/zhim_lega.jpg",
+		               "photo_equip/legs/zhim_nogami_shiroko.jpg"],
+
+		"src_video":["https://www.youtube.com/embed/8oRYVinqMdg","https://www.youtube.com/embed/xv7gMobOzmU","https://www.youtube.com/embed/wiFDIIe1Z1M",
+		             "https://www.youtube.com/embed/OBhf2yqCdpc","https://www.youtube.com/embed/GotRb2Ob7MA","https://www.youtube.com/embed/rUz7mPfvi48",
+		             "https://www.youtube.com/embed/BpBY08RLioM","https://www.youtube.com/embed/Ys7k8npN1mY","https://www.youtube.com/embed/Ick2MexOEUY",
+		             "https://www.youtube.com/embed/gYKEgsd9Imw","https://www.youtube.com/embed/y6Y8WM_K8YY","https://www.youtube.com/embed/dm3naV9HeQA",
+		             "https://www.youtube.com/embed/S1vGMpdqdzM","https://www.youtube.com/embed/ZYcPzj7EPfs","https://www.youtube.com/embed/a-FPX8kWKEM",
+		             "https://www.youtube.com/embed/t-OjGIzcrHE","https://www.youtube.com/embed/jyphzYKrptw","https://www.youtube.com/embed/FcObIpYuaiQ",
+		             "https://www.youtube.com/embed/4HKfXKbYIX4"],
+
+		"exercise_name":["Разгибатель бедра","Жим ногами в горизонтальной платформе сидя","Жим ногами вверх в наклонной платформе",
+		                 "Приседания со штангой в станке Смитта","Приседания со свободным весом","Сгибание бедра лежа",
+		                 "Подьемы на носки в голень-машине" ,"Отведение ноги назад в кроссовере на ягодицы","Приведение бедер сидя",
+		                 "Отведения бедер сидя на ягодицы","Сгибатель бедра сидя","Отведение ноги назад в тренажере",
+		                 "Сгибатель бедра стоя","Приседания 'плие' с гантелей","Сведение ног в тренажере",
+		                 "Выпады с гантелями","Жим ногами в платформе","Жим ногами лежа на спине в вертикальной платформе",
+		                 "Жим ногами широко с постановкрй ног вверху платформы"]
+
 	}
 }
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/98DtjucqpT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<<iframe width="1280" height="725" src="https://www.youtube.com/embed/4HKfXKbYIX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
