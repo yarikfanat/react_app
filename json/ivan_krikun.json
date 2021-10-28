@@ -5,7 +5,12 @@
 				   ["photo_equip/chest/razvedenie-ruk-lezha.jpg"],
 				   ["photo_equip/chest/ZHim-svenda-myishtsyi.jpg"],
 				   ["photo_equip/chest/pulover.jpg"],
-				   ["photo_equip/chest/zhim_vniz_golovoy.jpg"]			  
+				   ["photo_equip/chest/zhim_vniz_golovoy.jpg"],
+				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
+				   ["photo_equip/legs/prisedaniya-so-shtangoy.jpg"],
+				   ["photo_equip/legs/vipad.jpg"],
+				   ["photo_equip/legs/stanovaya-tyaga-rumin.jpg"],
+				   ["photo_equip/legs/golen-mashin.jpg"]		  
 				  ],
 	"exercise_name":[
 					 ["жим гантелей по 12-14кг лежа на горизонтальной скамье"],
@@ -13,7 +18,12 @@
 					 ["Разведение гантелей 10-12 кг(25 фунтов) лежа на горизонтальной скамье"],
 					 ["Жим Свенда с блином 5кг или гантель до 10кг"],
 					 ["Пуловер с гантелью 14 кг(30-35 фунтов) лежа на горизонтальной скамье"],
-					 ["Жим штанги вниз головой (стартовый вес по 7-10кг с каждой стороны)"]					
+					 ["Жим штанги вниз головой (стартовый вес по 7-10кг с каждой стороны)"],
+					 ["Разгибатель бедра 100фунтов"],
+					 ["Приседания со свободным весом - штанга (стартовый вес 15кг(33 фунта) с каждой стороны)"],
+					 ["Выпады с гантелями по 10-12кг"],
+					 ["Мертвая тяга со штангой на прямых ногах(стартовый вес по 2,5 кг с каждой стороны)"],
+					 ["Подьемы на носки в голень-машине 15 фунтов"]					
 				  	],
 	"src_video":[
 				 ["https://www.youtube.com/embed/mXdyLcQ_VZU"],
@@ -21,15 +31,25 @@
 				 ["https://www.youtube.com/embed/QaJcczm4uZU"],
 				 ["https://www.youtube.com/embed/Ny2OtRG1ZTA"],
 				 ["https://www.youtube.com/embed/UTurBQ0YAu8"],
-				 ["https://www.youtube.com/embed/2aYzxsG4Gkg"]				
+				 ["https://www.youtube.com/embed/2aYzxsG4Gkg"],
+				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
+				 ["https://www.youtube.com/embed/GotRb2Ob7MA"],
+				 ["https://www.youtube.com/embed/t-OjGIzcrHE"],
+				 ["https://www.youtube.com/embed/TGS-l4OtzZw"],
+				 ["https://www.youtube.com/embed/BpBY08RLioM"]				
 				],
-	"superset":[false,false,false,false,false,false],
-	"circle":[false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false,false,false,false,false],
 	"details":[[{"rounds":4,"reps":12}],
 			   [{"rounds":4,"reps":12}],
 			   [{"rounds":4,"reps":12}],
 			   [{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":12}],
-			   [{"rounds":4,"reps":12}]			   
+			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":"24шага"}],
+			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":20}]		   
 		 	  ]
 }
