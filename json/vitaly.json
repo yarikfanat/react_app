@@ -1,40 +1,59 @@
 {
 	"photo_equip":[
-				   ["photo_equip/back/IMG_20201028_085252.jpg"],
-				   ["photo_equip/back/IMG_20201028_085824.jpg"],
-				   ["photo_equip/back/IMG_20201030_162539.jpg"],
-				   ["photo_equip/back/stanovaja.jpg"],
-				   ["photo_equip/back/pulover-v-krossovere.jpg"],
-				   ["photo_equip/back/giperehkstenziya-gorizontalnaya.jpg"]
-				  
+				  ["photo_equip/legs/IMG_20201026_174911.jpg"],
+				  ["photo_equip/legs/prisedaniya-so-shtangoy.jpg"],
+				  ["photo_equip/legs/vipad.jpg"],
+				  ["photo_equip/legs/stanovaya-tyaga-rumin.jpg"],
+				  ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg"],
+				  ["photo_equip/back/tyaga-za-golovu1.jpg"],
+				  ["photo_equip/back/IMG_20201028_085824.jpg"],
+				  ["photo_equip/back/goriz_richag_tyga.jpg"],
+				  ["photo_equip/back/stan_sumo.jpg"],
+				  ["photo_equip/back/IMG_20201030_162539.jpg"],
+				  ["photo_equip/back/IMG_20201028_085813.jpg"]
+
 				  ],
 	"exercise_name":[
-					 ["Подтягивание в гравитроне параллельным хватом (противовес 100 фунтов)"],
-					 ["Вертикальная рычажная тяга параллельным хватом 100-120 фунтов"],
-					 ["Тяга Т-грифа (10кг-15 кг)"],
-					 ["Классическая становая тяга (10-15 кг(22-33 фунта) с каждой стороны)"],
-					 ["Пуловер в кроссовере"],
-					 ["Горизонтальная экстензия"]
-					 
+					["Жим ногами в горизонтальной платформе сидя"],
+					["Приседания со свободным весом (10-15 кг с каждой стороны)"],
+					["Выпады с гантелями по 12кг"],
+					["Мертвая тяга со штангой на прямых ногах"],
+					["Сведение ног в тренажере"],
+					["Вертикальная тяга за голову широким хватом"],
+					["Вертикальная рычажная тяга параллельным хватом"],
+					["Горизонтальная рычажная тяга средним хватом"],
+					["Становая тяга (сумо) по 10-15 кг с каждой стороны"],
+					["Тяга Т-грифа(10-20 кг блин)"],
+					["Обратная гиперэкстензия в тренажере"]
+					
 				  	],
 	"src_video":[
-				["https://www.youtube.com/embed/BOUrymgJk4s"],
+				["https://www.youtube.com/embed/xv7gMobOzmU"],
+				["https://www.youtube.com/embed/GotRb2Ob7MA"],
+				["https://www.youtube.com/embed/t-OjGIzcrHE"],
+				["https://www.youtube.com/embed/TGS-l4OtzZw"],
+				["https://www.youtube.com/embed/a-FPX8kWKEM"],
+				["https://www.youtube.com/embed/024DxzMHTOo"],
 				["https://www.youtube.com/embed/JxstfbStOMA"],
+				["https://www.youtube.com/embed/ipldDlIVcm4"],
+				["https://www.youtube.com/embed/vSrkgI7GfgE"],
 				["https://www.youtube.com/embed/3Yjr0ulB_YI"],
-				["https://www.youtube.com/embed/6me_dMqwqCA"],
-				["https://www.youtube.com/embed/T2RfezgCt1U"],
-				["https://www.youtube.com/embed/wBNfBsEr6UQ"]
-				
+				["https://www.youtube.com/embed/zTKVfUW0EIo"]
 
 				],
-	"superset":[false,false,false,false,false,false],
-	"circle":[false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false,false,false,false,false],
 	"details":[[{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":"24 шага"}],
 			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":12}],
 			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":20}]
+			   [{"rounds":4,"reps":15}]
 			 
 		 	  ]
 }
