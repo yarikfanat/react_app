@@ -1,39 +1,35 @@
 {
 	"photo_equip":[
-				   ["photo_equip/hands/IMG_20201028_085252.jpg"],
-				   ["photo_equip/hands/triceps__one_hand_izza_golovi.jpg"],
-				   ["photo_equip/hands/triceps_v_naklone.jpg"],
-				   ["photo_equip/hands/Obratnyie-razgibaniya-ruk-na-bloke-tehnika-vyipolneniya.jpg"],
-				   ["photo_equip/hands/podtygivania_biceps.jpg"],
-				   ["photo_equip/hands/biceps_gantel_skot_one_hand.png"],
-				   ["photo_equip/abdominal/press_na_skame.jpg"]
+				   ["photo_equip/back/IMG_20201028_085252.jpg"],
+				   ["photo_equip/back/IMG_20201028_085824.jpg"],
+				   ["photo_equip/back/goriz_richag_tyga.jpg"],
+				   ["photo_equip/back/pull_back_barbell.jpg"],
+				   ["photo_equip/back/IMG_20201028_085813.jpg"],
+				   ["photo_equip/abdominal/IMG_20201028_085135.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Отжимания на трицепс в гравитроне,локти прижаты.Противовес 150 фунтов"],
-					 ["Разгибание на трицепс гантели одной рукой из-за головы(10-12 кг)"],
-					 ["Разгибание на трицепс гантели в наклоне"],
-					 ["Разгибания на трицепс в блоке - обратный хват"],
-					 ["Подтягивания в гравитроне обратным хватом на бицепс. Противовес 150 фунтов"],
-					 ["Изолированный подьем гантели 8кг на бицепс одной рукой в скамье Скотта"],
-					 ["Подьемы ног лежа на спине"]
+					 ["Подтягивание в гравитроне параллельным хватом (противовес 130-140 фунтов)"],
+					 ["Вертикальная рычажная тяга параллельным хватом (вес 80-90 фунтов)"],
+					 ["Гоизонтальная рычажная тяга средним хватом (вес по 25кг(55 фунтов на каждую сторону))"],
+					 ["Тяга штанги средним хватом в наклоне (вес по 10-15кг (22-35фунтов) на каждую сторону)"],
+					 ["Обратная гиперэкстензия в тренажере"],
+					 ["Скручивания в тренажере для пресса"]
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/pSlfgn0nW4w"],
-				 ["https://www.youtube.com/embed/YClQH0n_WZw"],
-				 ["https://www.youtube.com/embed/m8oM7C09BmI"],
-				 ["https://www.youtube.com/embed/LzNslDsoIcs"],
-				 ["https://www.youtube.com/embed/ufmuhq82gLM"],
-				 ["https://www.youtube.com/embed/V61gI5P5_3w"],
-				 ["https://www.youtube.com/embed/0NrOMts6pzc"]
+				 ["https://www.youtube.com/embed/BOUrymgJk4s"],
+				 ["https://www.youtube.com/embed/JxstfbStOMA"],
+				 ["https://www.youtube.com/embed/ipldDlIVcm4"],
+				 ["https://www.youtube.com/embed/mdSuEs6YQ48"],
+				 ["https://www.youtube.com/embed/zTKVfUW0EIo"],
+				 ["https://www.youtube.com/embed/4wNi4keR_JE"]
 				],
-	"superset":[false,false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+	"details":[[{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}]
+			   [{"rounds":4,"reps":20}]
 		 	  ]
 }
