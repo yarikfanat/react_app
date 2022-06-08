@@ -1,35 +1,39 @@
-{
+﻿{
 	"photo_equip":[
-				   ["photo_equip/chest/IMG_20201030_162454.jpg","photo_equip/chest/zhim-gantelej-lezha-na-skame-pod-uglom-35.jpg"],
-				   ["photo_equip/chest/Smith-Machine-Bench-Press.jpg","photo_equip/chest/zhim_gantel_na_gorizont.jpg"],
-				   ["photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg","photo_equip/chest/razvedenie-ruk-lezha.jpg"],
-				   ["photo_equip/chest/IMG_20201028_085252.jpg","photo_equip/chest/IMG_20201030_162503.jpg"],
-				   ["photo_equip/chest/pulover.jpg","photo_equip/chest/IMG_20201030_162545.jpg"],
-				   ["photo_equip/abdominal/planka.png","photo_equip/abdominal/press_turnik.jpg"]
+				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
+				   ["photo_equip/legs/IMG_20201026_174911.jpg"],
+				   ["photo_equip/legs/prisedaniya-so-shtangoy.jpg"],
+				   ["photo_equip/legs/vipad.jpg"],
+				   ["photo_equip/legs/biceps_bedra_lezha.jpg"],
+				   ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg"],
+				   ["photo_equip/legs/golen-mashin.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим лежа под наклоном в тренажере (широкий хват)вес по 5кг(10 фунтов) с каждой стороны","жим гантелей по 12-14кг лежа на скамье под углом 35градусов"],
-					 ["Жим штанги лежа на горизонтальной скамье в станке Смитта (вес по 10-12кг(20-25 фунтов) с каждой стороны)","жим гантелей по 12-14кг лежа на горизонтальной скамье"],
-					 ["Грудь-машина - сведения рук(вес 60-70 фунтов)","Разведение гантелей 12 кг(25 фунтов) лежа на горизонтальной скамье"],
-					 ["Отжимания на брусьях в гравитроне(противовес 170-160 фунтов)","Жим в трицепс-машине"],
-					 ["Пуловер с гантелью 20 кг(40 фунтов) лежа на горизонтальной скамье","Пуловер сидя в пуловер-машине"],
-					 ["Планка горизонтальная на локтях","Подьемы ног в висе на турнике"]
+					 ["Разгибатель бедра (90 фунтов) "],
+					 ["Жим ногами в горизонтальной платформе сидя 250 фунтов"],
+					 ["Приседания со свободным весом (20 кг (45 фунта) с каждой стороны)"],
+					 ["Выпады с гантелями 9-10 кг"],
+					 ["Сгибание бедра лежа (110 фунтов)"],
+					 ["Сведение ног в тренажере 70- 80 фунтов"],
+					 ["Подьемы на носки в голень-машине (40 фунтов)"]
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/tzo69SUAm04","https://www.youtube.com/embed/MaxvcRh8ZII"],
-				 ["https://www.youtube.com/embed/R0RyxO58XuM","https://www.youtube.com/embed/mXdyLcQ_VZU"],
-				 ["https://www.youtube.com/embed/fMcFLCGKh04","https://www.youtube.com/embed/QaJcczm4uZU"],
-				 ["https://www.youtube.com/embed/pSlfgn0nW4w","https://www.youtube.com/embed/gPE0-KLc5zQ"],
-				 ["https://www.youtube.com/embed/UTurBQ0YAu8","https://www.youtube.com/embed/5XjZ4D2tMrc"],
-				 ["https://www.youtube.com/embed/54rGQNDT8ZA","https://www.youtube.com/embed/MLRvcj4dYeQ"]
+				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
+				 ["https://www.youtube.com/embed/xv7gMobOzmU"],
+				 ["https://www.youtube.com/embed/GotRb2Ob7MA"],
+				 ["https://www.youtube.com/embed/t-OjGIzcrHE"],
+				 ["https://www.youtube.com/embed/rUz7mPfvi48"],
+				 ["https://www.youtube.com/embed/a-FPX8kWKEM"],
+				 ["https://www.youtube.com/embed/BpBY08RLioM"]
 				],
-	"superset":[false,false,false,false,false,true],
+	"superset":[false,false,false,false,false,false,false],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":"1минута"},{"rounds":4,"reps":15}]
+	"details":[[{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":24}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}]
 		 	  ]
 }
