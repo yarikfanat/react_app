@@ -1,35 +1,40 @@
 ﻿{
 	"photo_equip":[
-				   ["photo_equip/chest/zhim-gantelej-lezha-na-skame-pod-uglom-35.jpg"],
-				   ["photo_equip/chest/zhim_gantel_na_gorizont.jpg"],
-				   ["photo_equip/chest/razvedenie-ruk-lezha.jpg"],
-				   ["photo_equip/chest/IMG_20201030_162503.jpg"],
-				   ["photo_equip/chest/IMG_20201030_162545.jpg"],
-				   ["photo_equip/abdominal/press_turnik.jpg"]
+				   ["photo_equip/back/pull_back_dumbell.png","photo_equip/back/IMG_20201026_173157.jpg"],
+				   ["photo_equip/back/IMG_20201028_085824.jpg"],
+				   ["photo_equip/back/IMG_20201030_162539.jpg"],
+				   ["photo_equip/back/IMG_20201026_173358.jpg"],
+				   ["photo_equip/back/stanovaja.jpg"],
+				   ["photo_equip/back/pulover-v-krossovere.jpg"],
+				   ["photo_equip/back/giperehkstenziya-gorizontalnaya.jpg"]				   	
 				  ],
 	"exercise_name":[
-					 ["жим гантелей по 12-14кг лежа на скамье под углом 35градусов"],
-					 ["жим гантелей по 12-14кг лежа на горизонтальной скамье"],
-					 ["Разведение гантелей 12 кг(25 фунтов) лежа на горизонтальной скамье"],
-					 ["Жим в трицепс-машине"],
-					 ["Пуловер сидя в пуловер-машине"],
-					 ["Планка горизонтальная на локтях","Подьемы ног в висе на турнике"]
+					 ["Тяга гантели в наклоне к поясу"],
+					 ["Вертикальная рычажная тяга параллельным хватом 100-120 фунтов"],
+					 ["Тяга Т-грифа (10кг-15 кг)"],
+					 ["Горизонтальная рычажная тяга широким хватом"],
+					 ["Классическая становая тяга (10-15 кг(22-33 фунта) с каждой стороны)"],
+					 ["Пуловер в кроссовере"],
+					 ["Горизонтальная экстензия","Гиперэкстензия с отягощением"]					 
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/MaxvcRh8ZII"],
-				 ["https://www.youtube.com/embed/mXdyLcQ_VZU"],
-				 ["https://www.youtube.com/embed/QaJcczm4uZU"],
-				 ["https://www.youtube.com/embed/gPE0-KLc5zQ"],
-				 ["https://www.youtube.com/embed/5XjZ4D2tMrc"],
-				 ["https://www.youtube.com/embed/54rGQNDT8ZA","https://www.youtube.com/embed/MLRvcj4dYeQ"]
+				["https://www.youtube.com/embed/Ch4UZW_j08Q"],
+				["https://www.youtube.com/embed/JxstfbStOMA"],
+				["https://www.youtube.com/embed/3Yjr0ulB_YI"],
+				["https://www.youtube.com/embed/Bx8QSth84lI"],
+				["https://www.youtube.com/embed/6me_dMqwqCA"],
+				["https://www.youtube.com/embed/T2RfezgCt1U"],
+				["https://www.youtube.com/embed/wBNfBsEr6UQ","https://www.youtube.com/embed/ykGsGlXkEVg"]				
 				],
-	"superset":[false,false,false,false,false,true],
+	"superset":[false,false,false,false,false,false,false],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":"1минута"},{"rounds":4,"reps":15}]
+	"details":[[{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":12}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}]
+			   
 		 	  ]
 }
