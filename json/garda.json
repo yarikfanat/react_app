@@ -1,35 +1,35 @@
 ﻿{
 	"photo_equip":[
-				   ["photo_equip/chest/IMG_20201030_162523.jpg"],
-				   ["photo_equip/chest/IMG_20201030_162454.jpg"],
-				   ["photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg","photo_equip/chest/razvedenie-ruk-lezha.jpg"],
-				   ["photo_equip/chest/IMG_20201030_162503.jpg"],
-				   ["photo_equip/chest/IMG_20201030_162545.jpg"],
-				   ["photo_equip/abdominal/planka.png","photo_equip/abdominal/press_turnik.jpg"]
+				   ["photo_equip/showlders/IMG_20201030_162311.jpg","photo_equip/showlders/hunter-labradas-5-moves-to-massive-shoulders-labrada-graphic-3b.jpg"],
+				   ["photo_equip/showlders/IMG_20201028_085140.jpg","photo_equip/showlders/shoulders_stendup.jpg"],
+				   ["photo_equip/back/IMG_20201026_173358.jpg"],
+				   ["photo_equip/back/vert_tyga_shirok_hvatom.jpg"],
+				   ["photo_equip/legs/biceps_bedra_lezha.jpg","photo_equip/legs/IMG_20201028_084538.jpg"],
+				   ["photo_equip/legs/IMG_20201028_084259.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим штанги лежа на горизонтальной скамье"],
-					 ["Жим лежа под наклоном в тренажере (широкий хват)"],
-					 ["Грудь-машина - сведения рук(вес 60-70 фунтов)","Разведение гантелей 12 кг(25 фунтов) лежа на горизонтальной скамье"],
-					 ["Жим в трицепс-машине"],
-					 ["Пуловер сидя в пуловер-машине"],
-					 ["Планка горизонтальная на локтях","Подьемы ног в висе на турнике"]
+					 ["Жим вверх сидя в тренажере для плеч (30-40 фунтов)","Жим штанги в станке Смитта перед собой сидя (с каждой стороны по 5-7.5кг(10-15 фунтов))"],
+					 ["Дельта-машина отведения (30 фунтов)","Отведения гантелей по 5-7кг в стороны стоя"],
+					 ["Горизонтальная рычажная тяга широким хватом (с каждой стороны по 10кг(22 фунтов))"],
+					 ["Вертикальная тяга широким хватом к груди 50 фунтов"],
+					 ["Сгибание бедра лежа 70 фунтов","Сгибатель бедра сидя 60-70 фунтов"],
+					 ["Приведение бедер сидя 50 фунтов"]
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/HCapLwC9eQw"],
-				 ["https://www.youtube.com/embed/tzo69SUAm04"],
-				 ["https://www.youtube.com/embed/fMcFLCGKh04","https://www.youtube.com/embed/QaJcczm4uZU"],
-				 ["https://www.youtube.com/embed/gPE0-KLc5zQ"],
-				 ["https://www.youtube.com/embed/5XjZ4D2tMrc"],
-				 ["https://www.youtube.com/embed/54rGQNDT8ZA","https://www.youtube.com/embed/MLRvcj4dYeQ"]
+				 ["https://www.youtube.com/embed/IMxbzZ-hEXw","https://www.youtube.com/embed/uFTH_rqLQNI"],
+				 ["https://www.youtube.com/embed/Vx4N54KAOJc","https://www.youtube.com/embed/AeTPDjMmIm4"],
+				 ["https://www.youtube.com/embed/Bx8QSth84lI"],
+				 ["https://www.youtube.com/embed/98DtjucqpT4"],
+				 ["https://www.youtube.com/embed/rUz7mPfvi48","https://www.youtube.com/embed/y6Y8WM_K8YY"],
+				 ["https://www.youtube.com/embed/Ick2MexOEUY"]
 				],
 	"superset":[false,false,false,false,false,true],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":"1минута"},{"rounds":4,"reps":15}]
+	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":25}]
 		 	  ]
 }
