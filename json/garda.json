@@ -1,35 +1,35 @@
 ﻿{
 	"photo_equip":[
-				   ["photo_equip/showlders/IMG_20201030_162311.jpg","photo_equip/showlders/hunter-labradas-5-moves-to-massive-shoulders-labrada-graphic-3b.jpg"],
-				   ["photo_equip/showlders/IMG_20201028_085140.jpg","photo_equip/showlders/shoulders_stendup.jpg"],
-				   ["photo_equip/back/IMG_20201026_173358.jpg"],
-				   ["photo_equip/back/vert_tyga_shirok_hvatom.jpg"],
-				   ["photo_equip/legs/biceps_bedra_lezha.jpg","photo_equip/legs/IMG_20201028_084538.jpg"],
-				   ["photo_equip/legs/IMG_20201028_084259.jpg"]
+				   ["photo_equip/chest/Smith-Machine-Bench-Press.jpg"],
+				   ["photo_equip/chest/IMG_20201030_162545.jpg","photo_equip/chest/pulover.jpg"],
+				   ["photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg"],
+				   ["photo_equip/hands/IMG_20201030_162509.jpg"],
+				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
+				   ["photo_equip/legs/zhim-nogami-foto.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим вверх сидя в тренажере для плеч (30-40 фунтов)","Жим штанги в станке Смитта перед собой сидя (с каждой стороны по 5-7.5кг(10-15 фунтов))"],
-					 ["Дельта-машина отведения (30 фунтов)","Отведения гантелей по 5-7кг в стороны стоя"],
-					 ["Горизонтальная рычажная тяга широким хватом (с каждой стороны по 10кг(22 фунтов))"],
-					 ["Вертикальная тяга широким хватом к груди 50 фунтов"],
-					 ["Сгибание бедра лежа 70 фунтов","Сгибатель бедра сидя 60-70 фунтов"],
-					 ["Приведение бедер сидя 50 фунтов"]
+					 ["Жим штанги лежа на горизонтальной скамье в станке Смитта(10 кг (22 фунта) с каждой стороны)"],
+					 ["Пуловер сидя в пуловер-машине(20 кг (45 фунта))","Пуловер с гантелью 15 кг(35 фунтов) лежа на горизонтальной скамье"],
+					 ["Грудь-машина - сведения рук 60 фунтов"],
+					 ["Бицепс-машина (на наклонной скамье Скотта) 10-15 кг(22-30 фунта)"],
+					 ["Разгибатель бедра 60 фунтов"],
+					 ["Жим ногами вверх в наклонной платформе 90-135 фунтов  с каждой стороны"]
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/IMxbzZ-hEXw","https://www.youtube.com/embed/uFTH_rqLQNI"],
-				 ["https://www.youtube.com/embed/Vx4N54KAOJc","https://www.youtube.com/embed/AeTPDjMmIm4"],
-				 ["https://www.youtube.com/embed/Bx8QSth84lI"],
-				 ["https://www.youtube.com/embed/98DtjucqpT4"],
-				 ["https://www.youtube.com/embed/rUz7mPfvi48","https://www.youtube.com/embed/y6Y8WM_K8YY"],
-				 ["https://www.youtube.com/embed/Ick2MexOEUY"]
+				 ["https://www.youtube.com/embed/R0RyxO58XuM"],
+				 ["https://www.youtube.com/embed/5XjZ4D2tMrc","https://www.youtube.com/embed/UTurBQ0YAu8"],
+				 ["https://www.youtube.com/embed/fMcFLCGKh04"],
+				 ["https://www.youtube.com/embed/NshlmP3t6M4"],
+				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
+				 ["https://www.youtube.com/embed/wiFDIIe1Z1M"]
 				],
 	"superset":[false,false,false,false,false,true],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+	"details":[[{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":25}]
 		 	  ]
 }
