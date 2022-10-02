@@ -1,11 +1,13 @@
-{
-	"photo_equip":["photo_equip/hands/IMG_20201030_162523.jpg","photo_equip/hands/smitt_uzko_zhim.jpg"],
+﻿{
+	"photo_equip":[
+				   ["photo_equip/hands/IMG_20201030_162523.jpg","photo_equip/hands/smitt_uzko_zhim.jpg"],
 				   ["photo_equip/hands/IMG_20201030_162304.jpg","photo_equip/hands/triceps_v_naklone.jpg"],
 				   ["photo_equip/back/tyaga-za-golovu1.jpg"],
 				   ["photo_equip/back/IMG_20201026_173157.jpg"],
 				   ["photo_equip/legs/IMG_20201028_084538.jpg"],
 				   ["photo_equip/legs/stanovaya-tyaga-rumin.jpg"],
-				   ["photo_equip/legs/golen-mashin.jpg"]],
+				   ["photo_equip/legs/golen-mashin.jpg"]
+				  ],
 	"exercise_name":[
 					 ["Жим узким хватом штанги(от 10 до 15 фунтов  с каждой стороны)","Жим узким хватом в станке Смитта (от 10 до 15 фунтов  с каждой стороны)"],
 					 ["Разгибания на трицепс в трицепс-машине 50-60 фунтов","Разгибание на трицепс гантели 5кг в наклоне"],
