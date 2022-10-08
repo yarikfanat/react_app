@@ -1,35 +1,39 @@
 ﻿{
 	"photo_equip":[
-				   ["photo_equip/chest/IMG_20201030_162454.jpg"],
-				   ["photo_equip/chest/IMG_20201028_085252.jpg"],
-				   ["photo_equip/chest/razvedenie-ruk-lezha.jpg"],
-				   ["photo_equip/hands/biceps_podem_stanga.jpg","photo_equip/hands/skot-rusworkout.jpg"],
-				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
-				   ["photo_equip/legs/vipad.jpg"]
+				   ["photo_equip/showlders/IMG_20201030_162311.jpg"],
+				   ["photo_equip/showlders/IMG_20201028_085140.jpg"],
+				   ["photo_equip/hands/smitt_uzko_zhim.jpg"],
+				   ["photo_equip/hands/Obratnyie-razgibaniya-ruk-na-bloke-tehnika-vyipolneniya.jpg"],
+				   ["photo_equip/back/tyga_k_poyasu.jpg"],
+				   ["photo_equip/back/IMG_20201026_173157.jpg"],
+				   ["photo_equip/legs/IMG_20201028_084538.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим лежа под наклоном в тренажере (широкий хват) 50-60 фунтов"],
-					 ["Отжимания на брусьях в гравитроне (противовес 180 фунтов)"],
-					 ["Разведение гантелей 10кг лежа на горизонтальной скамье"],
-					 ["Подьем штанги на бицепс стоя (40 фунтов монолитная)","Подьем штанги на скамье Скотта (30 фунтов монолитная)"],
-					 ["Разгибатель бедра 60 фунтов"],
-					 ["Выпады с гантелями 7кг"]
+					 ["Жим вверх сидя в тренажере для плеч (30-40 фунтов)"],
+					 ["Дельта-машина отведения (30 фунтов)"],
+					 ["Жим узким хватом в станке Смитта (от 10 до 15 фунтов  с каждой стороны)"],
+					 ["Разгибания на трицепс в блоке - обратный хват 70-80 фунтов"],
+					 ["Горизонтальная тяга блока (60 фунтов)"],
+					 ["Гиперэкстензия с отягощением 5кг(10 фунтов) или без"],
+					 ["Сгибатель бедра сидя 60 фунтов"]
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/tzo69SUAm04"],
-				 ["https://www.youtube.com/embed/pSlfgn0nW4w"],
-				 ["https://www.youtube.com/embed/QaJcczm4uZU"],
-				 ["https://www.youtube.com/embed/ztrd2rCc1hA","https://www.youtube.com/embed/7fBGXQXGxfk"],
-				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
-				 ["https://www.youtube.com/embed/t-OjGIzcrHE"]
+				 ["https://www.youtube.com/embed/IMxbzZ-hEXw"],
+				 ["https://www.youtube.com/embed/Vx4N54KAOJc"],
+				 ["https://www.youtube.com/embed/xyUG3SR0mSo"],
+				 ["https://www.youtube.com/embed/LzNslDsoIcs"],
+				 ["https://www.youtube.com/embed/2fUpsN3V_aU"],
+				 ["https://www.youtube.com/embed/ykGsGlXkEVg"],
+				 ["https://www.youtube.com/embed/y6Y8WM_K8YY"]
 				],
-	"superset":[false,false,false,false,false,false],
-	"circle":[false,false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false,false],
 	"details":[[{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":24}]
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}]
 		 	  ]
 }
