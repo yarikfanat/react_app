@@ -3,15 +3,15 @@
 				   ["photo_equip/chest/IMG_20201030_162523.jpg","photo_equip/chest/Smith-Machine-Bench-Press.jpg"],
 				   ["photo_equip/chest/IMG_20201030_162545.jpg","photo_equip/chest/pulover.jpg"],
 				   ["photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg"],
-				   ["photo_equip/hands/IMG_20201030_162509.jpg"],
+				   ["photo_equip/hands/IMG_20201030_162509.jpg","photo_equip/hands/biceps_podem_stanga.jpg","photo_equip/hands/skot-rusworkout.jpg"],
 				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
 				   ["photo_equip/legs/prised_smit.jpg","photo_equip/legs/prisedaniya-so-shtangoy.jpg","photo_equip/legs/zhim-nogami-foto.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим штанги лежа на горизонтальной скамье(10фунтов с каждой стороны)","Жим штанги лежа на горизонтальной скамье в станке Смитта(10 кг (22 фунта) с каждой стороны)"],
+					 ["Жим штанги лежа на горизонтальной скамье(5фунтов-10кг с каждой стороны)","Жим штанги лежа на горизонтальной скамье в станке Смитта(10 кг (22 фунта) с каждой стороны)"],
 					 ["Пуловер сидя в пуловер-машине(20 кг (45 фунта))","Пуловер с гантелью 15 кг(35 фунтов) лежа на горизонтальной скамье"],
 					 ["Грудь-машина - сведения рук 60 фунтов"],
-					 ["Бицепс-машина (на наклонной скамье Скотта) 10-15 кг(22-30 фунта)"],
+					 ["Бицепс-машина (на наклонной скамье Скотта) 10-15 кг(22-30 фунта)","Подьем штанги на бицепс стоя (40 фунтов монолитная)или изогнутый гриф(по5-7кг(10-15фунтов) с каждой стороны)","Подьем штанги на скамье Скотта (30 фунтов монолитная)или изогнутый гриф(по5кг(10фунтов)"],
 					 ["Разгибатель бедра 60 фунтов"],
 					 ["Приседания со штангой в станке Смитта(10кг-20фунтов с каждой стороны)","Приседания со свободным весом(10кг-20фунтов с каждой стороны)","Жим ногами вверх в наклонной платформе 90-135 фунтов  с каждой стороны"]
 				  	],
@@ -19,7 +19,7 @@
 				 ["https://youtu.be/ZKcHKc_rujQ","https://www.youtube.com/embed/R0RyxO58XuM"],
 				 ["https://www.youtube.com/embed/5XjZ4D2tMrc","https://www.youtube.com/embed/UTurBQ0YAu8"],
 				 ["https://www.youtube.com/embed/fMcFLCGKh04"],
-				 ["https://www.youtube.com/embed/NshlmP3t6M4"],
+				 ["https://www.youtube.com/embed/NshlmP3t6M4","https://www.youtube.com/embed/ztrd2rCc1hA","https://www.youtube.com/embed/7fBGXQXGxfk"],
 				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
 				 ["https://www.youtube.com/embed/OBhf2yqCdpc","https://www.youtube.com/embed/GotRb2Ob7MA","https://www.youtube.com/embed/wiFDIIe1Z1M"]
 				],
@@ -28,7 +28,7 @@
 	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20},{"rounds":4,"reps":25}]
 		 	  ]
