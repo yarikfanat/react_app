@@ -1,39 +1,35 @@
 ﻿{
 	"photo_equip":[
-				   ["photo_equip/showlders/IMG_20201030_162311.jpg"],
-				   ["photo_equip/showlders/IMG_20201028_085140.jpg"],
-				   ["photo_equip/hands/smitt_uzko_zhim.jpg"],
-				   ["photo_equip/hands/Obratnyie-razgibaniya-ruk-na-bloke-tehnika-vyipolneniya.jpg"],
-				   ["photo_equip/back/tyga_k_poyasu.jpg"],
-				   ["photo_equip/back/IMG_20201026_173157.jpg"],
-				   ["photo_equip/legs/IMG_20201028_084538.jpg"]
+				   ["photo_equip/chest/IMG_20201030_162523.jpg","photo_equip/chest/Smith-Machine-Bench-Press.jpg"],
+				   ["photo_equip/chest/IMG_20201030_162545.jpg","photo_equip/chest/pulover.jpg"],
+				   ["photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg"],
+				   ["photo_equip/hands/IMG_20201030_162509.jpg"],
+				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
+				   ["photo_equip/legs/prised_smit.jpg","photo_equip/legs/prisedaniya-so-shtangoy.jpg","photo_equip/legs/zhim-nogami-foto.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим вверх сидя в тренажере для плеч (30-40 фунтов)"],
-					 ["Дельта-машина отведения (30 фунтов)"],
-					 ["Жим узким хватом в станке Смитта (от 10 до 15 фунтов  с каждой стороны)"],
-					 ["Разгибания на трицепс в блоке - обратный хват 70-80 фунтов"],
-					 ["Горизонтальная тяга блока (60 фунтов)"],
-					 ["Гиперэкстензия с отягощением 5кг(10 фунтов) или без"],
-					 ["Сгибатель бедра сидя 60 фунтов"]
+					 ["Жим штанги лежа на горизонтальной скамье(10фунтов с каждой стороны)","Жим штанги лежа на горизонтальной скамье в станке Смитта(10 кг (22 фунта) с каждой стороны)"],
+					 ["Пуловер сидя в пуловер-машине(20 кг (45 фунта))","Пуловер с гантелью 15 кг(35 фунтов) лежа на горизонтальной скамье"],
+					 ["Грудь-машина - сведения рук 60 фунтов"],
+					 ["Бицепс-машина (на наклонной скамье Скотта) 10-15 кг(22-30 фунта)"],
+					 ["Разгибатель бедра 60 фунтов"],
+					 ["Приседания со штангой в станке Смитта(10кг-20фунтов с каждой стороны)","Приседания со свободным весом(10кг-20фунтов с каждой стороны)","Жим ногами вверх в наклонной платформе 90-135 фунтов  с каждой стороны"]
 				  	],
 	"src_video":[
-				 ["https://www.youtube.com/embed/IMxbzZ-hEXw"],
-				 ["https://www.youtube.com/embed/Vx4N54KAOJc"],
-				 ["https://www.youtube.com/embed/xyUG3SR0mSo"],
-				 ["https://www.youtube.com/embed/LzNslDsoIcs"],
-				 ["https://www.youtube.com/embed/2fUpsN3V_aU"],
-				 ["https://www.youtube.com/embed/ykGsGlXkEVg"],
-				 ["https://www.youtube.com/embed/y6Y8WM_K8YY"]
+				 ["https://youtu.be/ZKcHKc_rujQ","https://www.youtube.com/embed/R0RyxO58XuM"],
+				 ["https://www.youtube.com/embed/5XjZ4D2tMrc","https://www.youtube.com/embed/UTurBQ0YAu8"],
+				 ["https://www.youtube.com/embed/fMcFLCGKh04"],
+				 ["https://www.youtube.com/embed/NshlmP3t6M4"],
+				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
+				 ["https://www.youtube.com/embed/OBhf2yqCdpc","https://www.youtube.com/embed/GotRb2Ob7MA","https://www.youtube.com/embed/wiFDIIe1Z1M"]
 				],
-	"superset":[false,false,false,false,false,false,false],
-	"circle":[false,false,false,false,false,false,false,false],
-	"details":[[{"rounds":4,"reps":20}],
+	"superset":[false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}]
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20},{"rounds":4,"reps":25}]
 		 	  ]
 }
