@@ -1,35 +1,39 @@
 ﻿{
 	"photo_equip":[
-				   ["photo_equip/chest/IMG_20201030_162523.jpg","photo_equip/chest/Smith-Machine-Bench-Press.jpg"],
-				   ["photo_equip/chest/IMG_20201030_162545.jpg","photo_equip/chest/pulover.jpg"],
-				   ["photo_equip/chest/svedenie-ruk-na-grud-v-trenazhere-babochka.jpg"],
-				   ["photo_equip/hands/IMG_20201030_162509.jpg","photo_equip/hands/biceps_podem_stanga.jpg","photo_equip/hands/skot-rusworkout.jpg"],
-				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
-				   ["photo_equip/legs/prised_smit.jpg","photo_equip/legs/prisedaniya-so-shtangoy.jpg","photo_equip/legs/zhim-nogami-foto.jpg"]
+				   ["photo_equip/hands/IMG_20201030_162523.jpg","photo_equip/hands/smitt_uzko_zhim.jpg"],
+				   ["photo_equip/hands/IMG_20201030_162304.jpg","photo_equip/hands/triceps_v_naklone.jpg"],
+				   ["photo_equip/back/tyaga-za-golovu1.jpg"],
+				   ["photo_equip/back/IMG_20201026_173157.jpg"],
+				   ["photo_equip/legs/IMG_20201028_084538.jpg"],
+				   ["photo_equip/legs/stanovaya-tyaga-rumin.jpg"],
+				   ["photo_equip/legs/golen-mashin.jpg"]
 				  ],
 	"exercise_name":[
-					 ["Жим штанги лежа на горизонтальной скамье(5фунтов-10кг с каждой стороны)","Жим штанги лежа на горизонтальной скамье в станке Смитта(10 кг (22 фунта) с каждой стороны)"],
-					 ["Пуловер сидя в пуловер-машине(20 кг (45 фунта))","Пуловер с гантелью 15 кг(35 фунтов) лежа на горизонтальной скамье"],
-					 ["Грудь-машина - сведения рук 60 фунтов"],
-					 ["Бицепс-машина (на наклонной скамье Скотта) 10-15 кг(22-30 фунта)","Подьем штанги на бицепс стоя (40 фунтов монолитная)или изогнутый гриф(по5-7кг(10-15фунтов) с каждой стороны)","Подьем штанги на скамье Скотта (30 фунтов монолитная)или изогнутый гриф(по5кг(10фунтов)"],
-					 ["Разгибатель бедра 60 фунтов"],
-					 ["Приседания со штангой в станке Смитта(10кг-20фунтов с каждой стороны)","Приседания со свободным весом(10кг-20фунтов с каждой стороны)","Жим ногами вверх в наклонной платформе 90-135 фунтов  с каждой стороны"]
+					 ["Жим узким хватом штанги(от 10 до 15 фунтов  с каждой стороны)","Жим узким хватом в станке Смитта (от 10 до 15 фунтов  с каждой стороны)"],
+					 ["Разгибания на трицепс в трицепс-машине 50-60 фунтов","Разгибание на трицепс гантели 5кг в наклоне"],
+					 ["Вертикальная тяга за голову широким хватом 50 фунтов"],
+					 ["Гиперэкстензия с отягощением 5кг(10 фунтов) или без"],
+					 ["Сгибатель бедра сидя 60 фунтов"],					
+					 ["Мертвая тяга со штангой (по 2.5кг(5 фунтов)с каждой стороны) на прямых ногах"],
+					 ["Подьемы на носки в голень-машине (20-30 фунтов)"]
 				  	],
 	"src_video":[
-				 ["https://youtu.be/ZKcHKc_rujQ","https://www.youtube.com/embed/R0RyxO58XuM"],
-				 ["https://www.youtube.com/embed/5XjZ4D2tMrc","https://www.youtube.com/embed/UTurBQ0YAu8"],
-				 ["https://www.youtube.com/embed/fMcFLCGKh04"],
-				 ["https://www.youtube.com/embed/NshlmP3t6M4","https://www.youtube.com/embed/ztrd2rCc1hA","https://www.youtube.com/embed/7fBGXQXGxfk"],
-				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
-				 ["https://www.youtube.com/embed/OBhf2yqCdpc","https://www.youtube.com/embed/GotRb2Ob7MA","https://www.youtube.com/embed/wiFDIIe1Z1M"]
+				 ["https://www.youtube.com/embed/4XHFfOpzuLs","https://www.youtube.com/embed/xyUG3SR0mSo"],
+				 ["https://www.youtube.com/embed/ZcVPqGfS5iE","https://www.youtube.com/embed/m8oM7C09BmI"],
+				 ["https://www.youtube.com/embed/024DxzMHTOo"],
+				 ["https://www.youtube.com/embed/ykGsGlXkEVg"],
+				 ["https://www.youtube.com/embed/y6Y8WM_K8YY"],
+				 ["https://www.youtube.com/embed/TGS-l4OtzZw"],
+				 ["https://www.youtube.com/embed/BpBY08RLioM"]
 				],
-	"superset":[false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false,false],
 	"circle":[false,false,false,false,false,false,false],
 	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20},{"rounds":4,"reps":25}]
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}]
 		 	  ]
 }
