@@ -1,48 +1,40 @@
 ﻿{
 	"photo_equip":[
-				  
-				   ["photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg","photo_equip/abdominal/press_na_skame.jpg"],
-				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
-				   ["photo_equip/legs/IMG_20201026_174911.jpg"],
-				   ["photo_equip/legs/prisedaniya-so-shtangoy.jpg"],
-				   ["photo_equip/legs/vipad.jpg"],
-				   ["photo_equip/legs/biceps_bedra_lezha.jpg"],
-				   ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg"],
-				   ["photo_equip/legs/golen-mashin.jpg"]
+				   ["photo_equip/back/pull_back_dumbell.png"],
+				   ["photo_equip/back/IMG_20201028_085824.jpg","photo_equip/back/tyaga-za-golovu1.jpg"],
+				   ["photo_equip/back/IMG_20201030_162539.jpg","photo_equip/back/pull_back_barbell.jpg"],
+				   ["photo_equip/back/IMG_20201026_173358.jpg","photo_equip/back/tyga_k_poyasu.jpg"],
+				   ["photo_equip/back/stanovaja.jpg"],
+				   ["photo_equip/back/pulover-v-krossovere.jpg"],
+				   ["photo_equip/back/giperehkstenziya-gorizontalnaya.jpg","photo_equip/back/IMG_20201026_173157.jpg"]				   	
 				  ],
 	"exercise_name":[
-					
-					 ["Подьемы ног в висе","Скручивания в тренажере для пресса","Подьемы ног лежа на спине"],
-					 ["Разгибатель бедра (90 фунтов) "],
-					 ["Жим ногами в горизонтальной платформе сидя 250 фунтов"],
-					 ["Приседания со свободным весом (20 кг (45 фунта) с каждой стороны)"],
-					 ["Выпады с гантелями 9-10 кг"],
-					 ["Сгибание бедра лежа (110 фунтов)"],
-					 ["Сведение ног в тренажере 70- 80 фунтов"],
-					 ["Подьемы на носки в голень-машине (40 фунтов)"]
+					 ["Тяга гантели в наклоне к поясу"],
+					 ["Вертикальная рычажная тяга параллельным хватом 100-120 фунтов","Вертикальная тяга за голову широким хватом 40 кг"],
+					 ["Тяга Т-грифа (10кг-15 кг)","Тяга штанги средним хватом в наклоне"],
+					 ["Горизонтальная рычажная тяга широким хватом","Горизонтальная тяга блока (30-40 кг)"],
+					 ["Классическая становая тяга (10-15 кг с каждой стороны)"],
+					 ["Пуловер в кроссовере"],
+					 ["Горизонтальная экстензия","Гиперэкстензия с отягощением"]					 
 				  	],
 	"src_video":[
-				
-				 ["https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"],
-				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
-				 ["https://www.youtube.com/embed/xv7gMobOzmU"],
-				 ["https://www.youtube.com/embed/GotRb2Ob7MA"],
-				 ["https://www.youtube.com/embed/t-OjGIzcrHE"],
-				 ["https://www.youtube.com/embed/rUz7mPfvi48"],
-				 ["https://www.youtube.com/embed/a-FPX8kWKEM"],
-				 ["https://www.youtube.com/embed/BpBY08RLioM"]
+				["https://www.youtube.com/embed/Ch4UZW_j08Q"],
+				["https://www.youtube.com/embed/JxstfbStOMA","https://www.youtube.com/embed/024DxzMHTOo"],
+				["https://www.youtube.com/embed/3Yjr0ulB_YI","https://www.youtube.com/embed/mdSuEs6YQ48"],
+				["https://www.youtube.com/embed/Bx8QSth84lI","https://www.youtube.com/embed/2fUpsN3V_aU"],
+				["https://www.youtube.com/embed/6me_dMqwqCA"],
+				["https://www.youtube.com/embed/T2RfezgCt1U"],
+				["https://www.youtube.com/embed/wBNfBsEr6UQ","https://www.youtube.com/embed/ykGsGlXkEVg"]				
 				],
-	"superset":[false,false,false,false,false,false,false,false],
-	"circle":[false,false,false,false,false,false,false,false],
-	"details":[
-			   
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":15}],
+	"superset":[false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":12}],
-			   [{"rounds":4,"reps":24}],
 			   [{"rounds":4,"reps":15}],
-			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}]
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}]
+			   
 		 	  ]
 }
