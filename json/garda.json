@@ -1,40 +1,35 @@
 ﻿{
-	"photo_equip":[				  				   
-				   ["photo_equip/legs/IMG_20201028_084549.jpg"],
-				   ["photo_equip/legs/zhim_nogami_shiroko.jpg"],
-				   ["photo_equip/legs/prised_smit.jpg"],
-				   ["photo_equip/legs/stanovaya-tyaga-rumin.jpg"],
-				   ["photo_equip/legs/biceps_bedra_lezha.jpg"],
-				   ["photo_equip/legs/golen-mashin.jpg"],
-				   ["photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg","photo_equip/abdominal/press_na_skame.jpg"]
+	"photo_equip":[
+				   ["photo_equip/back/IMG_20201028_085252.jpg"],
+				   ["photo_equip/back/vert_tyga_shirok_hvatom.jpg"],
+				   ["photo_equip/back/IMG_20201026_173358.jpg"],
+				   ["photo_equip/back/pull_back_barbell.jpg"],
+				   ["photo_equip/back/stanovaja.jpg"],
+				   ["photo_equip/abdominal/IMG_20201028_085135.jpg"]
 				  ],
-	"exercise_name":[					
-					 ["Разгибатель бедра (45кг) "],
-					 ["Жим ногами широко с постановкой ног вверху платформы 80-100кг"],
-					 ["Приседания со штангой в станке Смитта по 10 кг с каждой стороны"],
-					 ["Мертвая тяга со штангой на прямых ногах 5-10кг с каждой стороны"],
-					 ["Сгибание бедра лежа (49-45кг)"],
-					 ["Подьемы на носки в голень-машине (20кг)"],
-					 ["Подьемы ног в висе","Скручивания в тренажере для пресса","Подьемы ног лежа на спине"]
+	"exercise_name":[
+					 ["Подтягивание в гравитроне широким хватом (противовес 100кг)"],
+					 ["Вертикальная тяга широким хватом к груди 50-60кг"],
+					 ["Горизонтальная рычажная тяга широким хватом(вес по 25кгкаждую сторону)"],
+					 ["Тяга штанги средним хватом в наклоне (вес по 10-15кг на каждую сторону)"],
+					 ["Классическая становая тяга вес по 10-15кг на каждую сторону"],
+					 ["Скручивания в тренажере для пресса"]
 				  	],
-	"src_video":[								 
-				 ["https://www.youtube.com/embed/8oRYVinqMdg"],
-				 ["https://www.youtube.com/embed/4HKfXKbYIX4"],
-				 ["https://www.youtube.com/embed/OBhf2yqCdpc"],
-				 ["https://www.youtube.com/embed/TGS-l4OtzZw"],
-				 ["https://www.youtube.com/embed/rUz7mPfvi48"],				 
-				 ["https://www.youtube.com/embed/BpBY08RLioM"],
-				 ["https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]
+	"src_video":[
+				 ["https://www.youtube.com/embed/gkrrGaeukY4"],
+				 ["https://www.youtube.com/embed/98DtjucqpT4"],
+				 ["https://www.youtube.com/embed/Bx8QSth84lI"],
+				 ["https://www.youtube.com/embed/mdSuEs6YQ48"],
+				 ["https://www.youtube.com/embed/6me_dMqwqCA"],
+				 ["https://www.youtube.com/embed/4wNi4keR_JE"]
 				],
-	"superset":[false,false,false,false,false,false,false],
+	"superset":[false,false,false,false,false,false],
 	"circle":[false,false,false,false,false,false,false],
-	"details":[			   			  
+	"details":[[{"rounds":4,"reps":15}],
 			   [{"rounds":4,"reps":20}],
 			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],
-			   [{"rounds":4,"reps":20}],			  
-			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}]
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":20}]
 		 	  ]
 }
