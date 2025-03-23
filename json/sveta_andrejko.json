@@ -12,7 +12,7 @@
 	"src_video":[["https://www.youtube.com/embed/xv7gMobOzmU","video/uzko_gorizont_tyga_richag.mp4"],
             	 ["https://www.youtube.com/embed/ykGsGlXkEVg","https://www.youtube.com/embed/HmKtdQTPJi4"],
             	 ["https://www.youtube.com/embed/wVNFyUNcwgU","video/vertical_richag_tyaga.mp4"],
-            	 ["https://drive.google.com/file/d/1A12iQKzq7G2UxpE5LGiX227H98ez-A4i/view?usp=drivesdk","video/obratna_extension.mp4"],
+            	 ["video/VID20250310130916.mp4","video/obratna_extension.mp4"],
             	 ["video/press_lezha.mp4","https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]],
 	"superset":[true,true,true,true,false],
 	"circle":[false,false,false,false,false],
