@@ -1,4 +1,4 @@
-{
+﻿{
 	"photo_equip":[["photo_equip/legs/zhim-nogami-foto.jpg","photo_equip/back/goriz_richag_tyga.jpg"],
   		           ["photo_equip/back/IMG_20201026_173157.jpg","photo_equip/legs/prisedaniya-plie-s-gantelej.jpg"],
   		           ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg","photo_equip/back/tyaga-za-golovu1.jpg"],
@@ -12,7 +12,7 @@
 	"src_video":[["https://www.youtube.com/embed/wiFDIIe1Z1M","https://www.youtube.com/embed/ipldDlIVcm4"],
             	 ["https://www.youtube.com/embed/ykGsGlXkEVg","https://www.youtube.com/embed/HmKtdQTPJi4"],
             	 ["https://www.youtube.com/embed/wVNFyUNcwgU","https://www.youtube.com/embed/8BwrIn4HCgk"],
-            	 ["https://www.youtube.com/embed/F2BZDFZEIQQ","https://www.youtube.com/embed/rUz7mPfvi48"],
+            	 ["https://drive.google.com/file/d/1A12iQKzq7G2UxpE5LGiX227H98ez-A4i/view?usp=drive_link","https://www.youtube.com/embed/rUz7mPfvi48"],
             	 ["https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]],
 	"superset":[true,true,true,true,false],
 	"circle":[false,false,false,false,false],
